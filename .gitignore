@@ -1,6 +1,9 @@
-# Ignored directories and files
+# Ignorierte Verzeichnisse und Dateien
+# Node.js Abhängigkeiten und Build-Ordner
 node_modules/
 /build/
 /dist/
+# Umgebungsvariablen und temporäre Dateien
 .env
 .DS_Store
+*.tmp
